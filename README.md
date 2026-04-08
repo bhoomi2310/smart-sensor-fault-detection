@@ -32,7 +32,7 @@ gcc src/main.c -o sensor
 ./sensor
 
 ```
-##Future Improvements
-Interrupt-driven simulation
-Multi-sensor bus (I2C-style simulation)
-Porting to real microcontroller (MSP430/TM4C)
+## Future Improvements
+- Interrupt-driven simulation
+- Multi-sensor bus (I2C-style simulation)
+- Porting to real microcontroller (MSP430/TM4C)
